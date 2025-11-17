@@ -1,0 +1,38 @@
+*{
+    background-color: #ede9dc;
+    color: #2f2f3b;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+
+#title{
+    text-align: center;
+    margin-bottom: 5px;
+}
+
+p{
+    text-align: center;
+    margin-top: 5px;
+}
+
+.recipes{
+    max-width: auto;
+    margin: 100px;
+    margin-left: 550px;
+    /* padding-left: 30px; */
+}
+
+.lasagna, .croquettes, .tortilla{
+    display: inline-block;
+    margin-left: 10px;
+    
+}
+
+
+h2, a{
+    text-align:left;
+    font-size: 15px;
+    text-decoration-line: none;
+    
+}
+
